@@ -1,0 +1,13 @@
+{
+  "name": "pinyin",
+  "version": "1.0.0",
+  "description": "Sample program to convert Chinese character to Pinyin",
+  "main": "index.js",
+  "author": "Sunny Cheung",
+  "scripts": {
+    "dist": "node ."
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
